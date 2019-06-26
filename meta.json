@@ -1,0 +1,13 @@
+{
+    "time": "2019-06-26T17:21:25.901Z",
+    "version": 1561569685901,
+    "remotes": {
+        "github.com/RyleySill93/testing": {
+            "time": 1561569685901,
+            "version": 1561569685901,
+            "shasums": {
+                "testing.thrift": "f1eb03b26da1ad9a3e9046334f04934041bf8ca9"
+            }
+        }
+    }
+}
